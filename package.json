@@ -1,0 +1,16 @@
+{
+  "name": "Tiji-Bot",
+  "version": "1.0.0",
+  "description": "a bot that originally was made to make some doots",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taylor Bacon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^7.0.0"
+  }
+}
